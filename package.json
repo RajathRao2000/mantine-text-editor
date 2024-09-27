@@ -13,6 +13,7 @@
     "@mantine/core": "^7.13.0",
     "@mantine/hooks": "^7.13.0",
     "@mantine/tiptap": "^7.13.0",
+    "@tiptap/core": "^2.7.4",
     "@tiptap/extension-highlight": "^2.7.4",
     "@tiptap/extension-link": "^2.7.4",
     "@tiptap/extension-subscript": "^2.7.4",
